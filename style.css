@@ -1,0 +1,47 @@
+a{
+    
+    text-decoration: none;
+}
+h1{
+    font-size: 60px;
+    text-align:center;
+    margin:0;
+    
+}
+h4{
+    text-align:center;
+    margin: 5px 0;
+    
+    border-bottom: gray solid 4px;
+    padding-bottom:10px;
+}
+h2{
+    font-size: 40px;
+    
+    margin: 0;
+    
+}
+
+
+#choice1{
+    list-style: none;
+    border-right:gray solid 4px;
+    width:500px;
+    margin:0;
+    padding-top: 0;
+    
+    
+}
+ol{
+    font-size:30px;
+}
+li{
+    margin:10px;
+}
+#contents{
+    display:grid;
+    grid-template-columns: 600px 1fr;
+}
+#article{
+    margin-top:10px;
+}
